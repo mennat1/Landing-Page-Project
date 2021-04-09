@@ -10,4 +10,4 @@ This is the first project in Udacity's Front End Web Development Professional Na
 * Scroll to Anchor: When clicking an item from the navigation menu, the link should scroll to the appropriate section.
 
 ## Acknowledments
-The starter files (aka project skeleton) was provided by Udacity.
+The starter files (aka project skeleton) were provided by Udacity.
